@@ -89,6 +89,6 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-light gray-fg-dark",
     "type": "Header"
 }
